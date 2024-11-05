@@ -1,0 +1,25 @@
+{
+	"name": "@kanokpit.y/post-datetime-format",
+	"version": "1.0.1",
+	"description": "A simple utility library for show datetime format written in TypeScript",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kanokpit-yowaratch/post-datetime-format.git"
+	},
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"build": "tsc"
+	},
+	"keywords": [
+		"datetime",
+		"date format",
+		"datetime format",
+		"post date format"
+	],
+	"author": "Kanokpit",
+	"license": "ISC",
+	"dependencies": {
+		"typescript": "^5.6.3"
+	}
+}
