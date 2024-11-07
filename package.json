@@ -1,6 +1,6 @@
 {
 	"name": "@kanokpit.y/post-datetime-format",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "A simple utility library for show datetime format written in TypeScript",
 	"repository": {
 		"type": "git",
